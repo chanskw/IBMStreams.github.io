@@ -181,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-secondary {
-    
+
     font-size: 15px !important;
     text-transform: uppercase;
     color: white!important;
@@ -252,17 +252,17 @@ fieldset[disabled] .btn-xl.active {
 }
 
 #excelImg {
-   
+
     width: 100%;
 }
 
 #studioImg {
-    
+
     width: 100%;
 }
 
 #consoleImg {
-    
+
     width: 100%;
 }
 
@@ -333,11 +333,11 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
-    } 
-    
+    }
+
     .navbar-default.navbar-shrink .navbar-secondary {
-    
-        
+
+
     }
 }
 
@@ -369,7 +369,7 @@ header .intro-text .intro-lead-in {
     /*-webkit-text-fill-color: #484848;
     -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: #fed136;*/
-    
+
 }
 
 header .intro-text .intro-heading {
@@ -408,7 +408,7 @@ header .intro-text .intro-heading {
     .navbar-secondary {
         font-size: 80% !important;
     }
-    
+
     .portfolio-modal .modal-content h2 {
       margin-bottom: 15px;
       font-size: 20px !important;
@@ -438,7 +438,7 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
 
-        
+
     }
 }
 
@@ -1034,4 +1034,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+div#bs-example-navbar-collapse-1.collapse.navbar-collapse {
+    padding-right: 10px;
 }
